@@ -1,36 +1,139 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Automation Engineer Portfolio
 
-## Getting Started
+A premium enterprise-inspired portfolio website showcasing experience in AI workflows, automation systems, backend infrastructure, and full-stack engineering.
 
-First, run the development server:
+Built with modern frontend technologies and designed to reflect the aesthetic of high-end SaaS and infrastructure platforms.
+
+---
+
+## Overview
+
+This portfolio was designed to represent:
+- AI systems engineering
+- enterprise-grade workflows
+- backend infrastructure thinking
+- startup-focused product development
+- modern SaaS design principles
+
+The website highlights:
+- experience at Amazon and Happy Soul
+- AI automation systems
+- workflow orchestration concepts
+- scalable backend architectures
+- enterprise dashboard aesthetics
+
+---
+
+## Tech Stack
+
+- Next.js 15
+- TypeScript
+- TailwindCSS
+- Framer Motion
+- shadcn/ui
+- Lucide React
+
+---
+
+## Features
+
+### Enterprise-Inspired UI
+- premium dark theme
+- modern SaaS aesthetics
+- responsive layouts
+- subtle animations
+- smooth transitions
+
+### Experience Showcase
+- Amazon internship experience
+- Happy Soul production systems work
+- AI infrastructure-focused engineering
+
+### Featured Case Studies
+- AI automation pipelines
+- backend orchestration systems
+- workflow management dashboards
+- operational automation systems
+
+### Advanced Frontend Architecture
+- modular component structure
+- reusable UI systems
+- scalable folder organization
+- responsive design patterns
+
+---
+
+## Sections
+
+- Hero Section
+- Experience Timeline
+- Featured Work
+- Skills & Technologies
+- Services
+- About
+- Contact
+
+---
+
+## Design Philosophy
+
+The portfolio was intentionally designed to feel:
+- calm
+- minimal
+- technical
+- enterprise-grade
+- startup-oriented
+
+Inspired by modern product companies such as:
+- Vercel
+- Stripe
+- Linear
+- Raycast
+
+---
+
+## Running Locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Optimized for deployment on:
 
-## Learn More
+- Vercel
 
-To learn more about Next.js, take a look at the following resources:
+Deploy instantly using:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+vercel
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+or connect the repository directly through the Vercel dashboard.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Shivam Singh
+
+- GitHub: https://github.com/shvm2
+- Portfolio: https://byte-shell.vercel.app/
+
+Available for:
+- AI automation systems
+- full-stack development
+- backend infrastructure
+- startup MVPs
+- workflow automation
+- freelance collaborations
+
+---
+
+## License
+
+This project is for personal portfolio use.
